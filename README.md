@@ -17,4 +17,4 @@ THEN the saved events persist
 ## Data will be held in localstorage and will stay on page if page is refreshed.
 
 [GitHub Repository](https://github.com/trembo-TN/workScheduler)
-[Live Site]()
+[Live Site](https://trembo-tn.github.io/workScheduler/)
